@@ -2,12 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14eb7bd1-8f7f-4857-86e2-f534611da049" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../hocjava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hocjava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/META-INF/startJava.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/controller/ApplicationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/controller/EmployeeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/controller/MenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/controller/MyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/controller/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/entity/Acount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/entity/HanhDongTichCuc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/entity/HanhDongTieuCuc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/entity/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/entity/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/out/production/startJava/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/controller/ApplicationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/controller/MenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/controller/MyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/entity/Acount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/entity/HanhDongTichCuc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/entity/HanhDongTieuCuc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/entity/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/entity/calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hocjava/startJava.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kiemtra1/controller/FoodController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kiemtra1/controller/FoodController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kiemtra1/entity/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kiemtra1/entity/Food.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/FoodController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/FoodController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Food.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/entity/Food.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="178">
-              <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+              <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
               <folding>
                 <element signature="e#226#227#0" expanded="true" />
                 <element signature="e#255#256#0" expanded="true" />
@@ -61,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/src/entity/MenuCreator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="331">
-              <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="35" />
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/src/entity/Category.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
               <folding>
                 <element signature="e#320#321#0" expanded="true" />
                 <element signature="e#353#354#0" expanded="true" />
@@ -92,7 +123,7 @@
         <entry file="file://$PROJECT_DIR$/src/controller/FoodController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="348">
-              <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/src/controller/CategoryController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-9">
-              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding>
                 <element signature="e#229#230#0" expanded="true" />
                 <element signature="e#256#257#0" expanded="true" />
@@ -118,7 +149,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/entity/MenuCategory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="136">
               <caret line="8" column="39" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -204,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553285207357" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553286306385" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hocjava" />
   </component>
   <component name="RunDashboard">
@@ -248,16 +279,15 @@
       <updated>1553238480461</updated>
       <workItem from="1553238483774" duration="6395000" />
       <workItem from="1553246374205" duration="5664000" />
-      <workItem from="1553257413730" duration="17808000" />
+      <workItem from="1553257413730" duration="18545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29867000" />
+    <option name="totallyTimeSpent" value="30604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -268,7 +298,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -276,7 +306,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -305,7 +335,7 @@
     <entry file="file://$PROJECT_DIR$/src/entity/Food.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
-          <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
           <folding>
             <element signature="e#226#227#0" expanded="true" />
             <element signature="e#255#256#0" expanded="true" />
@@ -333,7 +363,7 @@
     <entry file="file://$PROJECT_DIR$/src/entity/MenuCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="35" />
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -343,7 +373,7 @@
     <entry file="file://$PROJECT_DIR$/src/entity/Category.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
           <folding>
             <element signature="e#320#321#0" expanded="true" />
             <element signature="e#353#354#0" expanded="true" />
@@ -360,7 +390,7 @@
     <entry file="file://$PROJECT_DIR$/src/controller/CategoryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding>
             <element signature="e#229#230#0" expanded="true" />
             <element signature="e#256#257#0" expanded="true" />
@@ -373,7 +403,7 @@
     <entry file="file://$PROJECT_DIR$/src/controller/FoodController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -382,7 +412,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/entity/MenuCategory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="136">
           <caret line="8" column="39" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
