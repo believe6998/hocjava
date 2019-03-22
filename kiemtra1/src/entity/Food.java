@@ -1,26 +1,25 @@
 package entity;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
-public class Food {
-    SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy");
+public class Food extends Category {
     private String foodId;
     private String name;
     private String description;
     private double price;
-    private String createdAt = format.format(new Date());
+    private String createdAt;
 
     public Food() {
     }
 
-    public Food(String foodId, String name, String description, double price, String createdAt) {
+    public Food(String categoryId, String categoryName, String foodId, String name, String description, double price, String createdAt) {
+        super(categoryId, categoryName);
         this.foodId = foodId;
         this.name = name;
         this.description = description;
         this.price = price;
         this.createdAt = createdAt;
     }
+
 
     public String getFoodId() {
         return foodId;
@@ -58,26 +57,12 @@ public class Food {
         return createdAt;
     }
 
-    public Food(String foodId, String name, String description, double price) {
-        this.foodId = foodId;
-        this.name = name;
-        this.description = description;
-        this.price = price;
-    }
-
     public void setCreatedAt(String createdAt) {
         this.createdAt = createdAt;
     }
 
     @Override
     public String toString() {
-//        return "Food{" +
-//                "foodId='" + foodId + '\'' +
-//                ", name='" + name + '\'' +
-//                ", description='" + description + '\'' +
-//                ", price=" + price +
-//                ", createdAt='" + createdAt + '\'' +
-//                '}';
-        return String.format("foodId: %s, name: %s, description: %s, price: %f, createAt: %s", this.foodId, this.name, this.description, this.price, this.createdAt);
+        return String.format("foodId: %s, name: %s, description: %s, price: %f, createAt: %s, category: %s", this.foodId, this.name, this.description, this.price, this.createdAt, this.getCategoryName());
     }
 }

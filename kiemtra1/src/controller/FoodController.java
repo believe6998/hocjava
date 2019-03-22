@@ -1,6 +1,8 @@
 package controller;
 
+import entity.Category;
 import entity.Food;
+import entity.MenuCategory;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -15,11 +17,16 @@ public class FoodController {
         System.out.println("Nhập tên món:");
         String name = scanner.nextLine();
         System.out.println("Nhập mô tả món:");
-        String descripton = scanner.nextLine();
+        String description = scanner.nextLine();
         System.out.println("Nhập giá món:");
         double price = scanner.nextDouble();
         scanner.nextLine();
-        Food food = new Food(foodId, name, descripton, price);
+        System.out.println("Nhập ngày tạo món:");
+        String createdAt = scanner.nextLine();
+        Food foodCategory = new Food();
+        MenuCategory menuCategory = new MenuCategory();
+        menuCategory.createMenuCategory(foodCategory);
+        Food food = new Food(foodCategory.getCategoryId(),foodCategory.getCategoryName(),foodId,name,description,price,createdAt);
         list.add(food);
     };
     public void printList(){
