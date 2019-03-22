@@ -78,6 +78,6 @@ public class Food {
 //                ", price=" + price +
 //                ", createdAt='" + createdAt + '\'' +
 //                '}';
-        return String.format("foodId: %s, name: %s, description: %s, price: %f, createAt: %s", foodId, name, description, price, createdAt);
+        return String.format("foodId: %s, name: %s, description: %s, price: %f, createAt: %s", this.foodId, this.name, this.description, this.price, this.createdAt);
     }
 }

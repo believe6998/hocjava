@@ -20,6 +20,7 @@ public class FoodController {
         double price = scanner.nextDouble();
         scanner.nextLine();
         Food food = new Food(foodId, name, descripton, price);
+        list.add(food);
     };
     public void printList(){
         for (int i = 0; i < list.size(); i++) {
